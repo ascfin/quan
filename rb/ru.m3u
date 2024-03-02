@@ -75,11 +75,11 @@ https://fashs043.cloudycdn.services/scte/pg18/pg18_1080p_chunklist.m3u8
 #EXTINF: -1 tvg-id="7215" group-title="sport", EUROSPORT 1
 http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/5075/index.m3u8
 #EXTINF: -1 tvg-id="142" group-title="ph", 鳳凰衛視資訊台
-http://110.191.246.220:8888/udp/239.93.0.118:2191
+http://182.148.13.45:8888/udp/239.93.0.118:2191
 #EXTINF: -1 tvg-id="141" group-title="ph", 鳳凰衛視中文台
-http://110.191.246.220:8888/udp/239.93.0.162:2192
+http://182.148.13.45:8888/udp/239.93.0.162:2192
 #EXTINF: -1 tvg-id="143" group-title="ph", 鳳凰衛視香港台
-http://171.109.225.113:8181/tsfile/live/1005_1.m3u8
+http://116.11.158.251:8181/tsfile/live/1005_1.m3u8
 #EXTINF: -1 group-title="japan", 日テレNEWS
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF: -1 tvg-id="331" group-title="japan", NHK WORLD-JAPAN
