@@ -1,50 +1,60 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="1" group-title="cctv", CCTV-1 综合
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233701/index.m3u8
+http://13457610200.8866.org:2018/live/中央1HD/index.m3u8
 #EXTINF: -1 tvg-id="2" group-title="cctv", CCTV-2 财经
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233718/index.m3u8
+http://13457610200.8866.org:2018/live/中央2HD/index.m3u8
 #EXTINF: -1 tvg-id="3" group-title="cctv", CCTV-3 综艺
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233715/index.m3u8
+http://13457610200.8866.org:2018/live/中央3HD/index.m3u8
 #EXTINF: -1 tvg-id="4" group-title="cctv", CCTV-4 中文国际
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233686/index.m3u8
+http://13457610200.8866.org:2018/live/中央4HD/index.m3u8
 #EXTINF: -1 tvg-id="5" group-title="cctv", CCTV-5 体育
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233724/index.m3u8
+http://13457610200.8866.org:2018/live/中央5HD/index.m3u8
 #EXTINF: -1 tvg-id="6" group-title="cctv", CCTV-5+ 体育赛事
-http://123.138.216.44:9902/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+http://13457610200.8866.org:2018/live/中央05HD/index.m3u8
 #EXTINF: -1 tvg-id="10" group-title="cctv", CCTV-9 纪录
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233706/index.m3u8
+http://36.129.204.120:880/DX9.m3u8
 #EXTINF: -1 tvg-id="11" group-title="cctv", CCTV-10 科教
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233704/index.m3u8
+http://36.129.204.120:880/DX11.m3u8
 #EXTINF: -1 tvg-id="14" group-title="cctv", CCTV-13 新闻
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233712/index.m3u8
+http://13457610200.8866.org:2018/live/中12HD./index.m3u8
 #EXTINF: -1 tvg-id="18" group-title="cctv", CCTV-17 农业农村
-http://112.235.202.250:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://36.129.204.120:880/CCN16.m3u8
 #EXTINF: -1 tvg-id="27" group-title="cctv", 湖南卫视
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233707/index.m3u8
+http://13457610200.8866.org:2018/live/湖南卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="28" group-title="cctv", 浙江卫视
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233695/index.m3u8
+http://13457610200.8866.org:2018/live/浙江卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="29" group-title="cctv", 江苏卫视
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233689/index.m3u8
+http://13457610200.8866.org:2018/live/江苏卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="30" group-title="cctv", 北京卫视
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233730/index.m3u8
+http://13457610200.8866.org:2018/live/北京卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="31" group-title="cctv", 东方卫视
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233692/index.m3u8
+http://13457610200.8866.org:2018/live/东方卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="33" group-title="cctv", 广东卫视
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233667/index.m3u8
+http://13457610200.8866.org:2018/live/广东卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="34" group-title="cctv", 深圳卫视
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233664/index.m3u8
+http://13457610200.8866.org:2018/live/深圳卫视高清/index.m3u8
 #EXTINF: -1 group-title="cctv", 重温经典
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF: -1 group-title="cctv", 文物宝库
+http://36.129.204.120:880/WWBK.m3u8
+#EXTINF: -1 group-title="cctv", 书画
+http://36.129.204.120:880/CCN29.m3u8
+#EXTINF: -1 group-title="cctv", 欢笑剧场
+http://36.129.204.120:880/dxhxjc.m3u8
+#EXTINF: -1 tvg-id="1988" group-title="cctv", 纪实人文
+http://13457610200.8866.org:2018/live/上海纪实/index.m3u8
+#EXTINF: -1 tvg-id="1872" group-title="cctv", 北京纪实 
+http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF: -1 tvg-id="106" group-title="cctv", CCTV4K
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
+#EXTINF: -1 tvg-id="7249" group-title="cctv", CCTV-16 奥林匹克
+https://tv.cry33.com/ys4k.php?id=16-4k
 #EXTINF: -1 group-title="cctv", 蓝印花布 | 浙江 乌镇
 https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
 #EXTINF: -1 group-title="cctv", 五彩池 ｜ 四川 黄龙
 https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 #EXTINF: -1 group-title="cctv", 玄武湖公园 ｜江苏 南京
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-#EXTINF: -1 tvg-id="106" group-title="uhd", CCTV4K
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
-#EXTINF: -1 tvg-id="7249" group-title="uhd", CCTV-16 奥林匹克
-https://tv.cry33.com/ys4k.php?id=16-4k
 #EXTINF: -1 tvg-id="6140" group-title="uhd", Bloomberg UHD
 https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF: -1 group-title="uhd", FTV UHD
@@ -77,21 +87,25 @@ https://fashs043.cloudycdn.services/scte/pg18/pg18_1080p_chunklist.m3u8
 #EXTINF: -1 tvg-id="7215" group-title="sport", EUROSPORT 1
 http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/5075/index.m3u8
 #EXTINF: -1 tvg-id="142" group-title="ph", 鳳凰衛視資訊台
-http://182.148.13.45:8888/udp/239.93.0.118:2191
+http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8
 #EXTINF: -1 tvg-id="141" group-title="ph", 鳳凰衛視中文台
-http://182.148.13.45:8888/udp/239.93.0.162:2192
+http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8
 #EXTINF: -1 tvg-id="143" group-title="ph", 鳳凰衛視香港台
-http://116.11.158.251:8181/tsfile/live/1005_1.m3u8
+http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8
 #EXTINF: -1 group-title="japan", 日テレNEWS
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF: -1 tvg-id="331" group-title="japan", NHK WORLD-JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF: -1 group-title="japan", 緯來日本
+rtmp://twcdn.top:1935/sat/tv771
 #EXTINF: -1 tvg-id="6141" group-title="korea", arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF: -1 group-title="taiwan", Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF: -1 tvg-id="6073" group-title="taiwan", TVBS新聞
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF: -1 group-title="taiwan", TVBS歡樂
+rtmp://twcdn.top:1935/sat/tv421
 #EXTINF: -1 tvg-id="6027" group-title="taiwan", 大愛一臺
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF: -1 tvg-id="6142" group-title="taiwan", 大愛二臺
@@ -146,5 +160,5 @@ http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/9011/index.m3u8
 http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/9326/index.m3u8
 #EXTINF: -1 group-title="food", bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF: -1 group-title="food", food network
-http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/10026/index.m3u8
+#EXTINF: -1 group-title="game", IGN
+https://ign-samsungus.amagi.tv/playlist.m3u8
