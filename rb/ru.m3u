@@ -12,13 +12,13 @@ http://13457610200.8866.org:2018/live/中央5HD/index.m3u8
 #EXTINF: -1 tvg-id="6" group-title="cctv", CCTV-5+ 体育赛事
 http://13457610200.8866.org:2018/live/中央05HD/index.m3u8
 #EXTINF: -1 tvg-id="10" group-title="cctv", CCTV-9 纪录
-http://36.129.204.120:880/DX9.m3u8
+http://13457610200.8866.org:2018/live/CCTVx9高清/index.m3u8
 #EXTINF: -1 tvg-id="11" group-title="cctv", CCTV-10 科教
-http://36.129.204.120:880/DX11.m3u8
+http://13457610200.8866.org:2018/live/CCTVx10高清/index.m3u8
 #EXTINF: -1 tvg-id="14" group-title="cctv", CCTV-13 新闻
-http://13457610200.8866.org:2018/live/中12HD./index.m3u8
+http://13457610200.8866.org:2018/live/CCTVx13高清/index.m3u8
 #EXTINF: -1 tvg-id="18" group-title="cctv", CCTV-17 农业农村
-http://36.129.204.120:880/CCN16.m3u8
+http://13457610200.8866.org:2018/live/CCTVx17高清/index.m3u8
 #EXTINF: -1 tvg-id="27" group-title="cctv", 湖南卫视
 http://13457610200.8866.org:2018/live/湖南卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="28" group-title="cctv", 浙江卫视
@@ -38,15 +38,15 @@ http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcl
 #EXTINF: -1 group-title="cctv", 文物宝库
 http://36.129.204.120:880/WWBK.m3u8
 #EXTINF: -1 group-title="cctv", 书画
-http://36.129.204.120:880/CCN29.m3u8
+http://211.103.180.178:8234/live_hls/hdmi.m3u8
 #EXTINF: -1 group-title="cctv", 欢笑剧场
-http://36.129.204.120:880/dxhxjc.m3u8
+http://118.183.212.14:6868/udp/239.255.29.7:8231
 #EXTINF: -1 tvg-id="1988" group-title="cctv", 纪实人文
 http://13457610200.8866.org:2018/live/上海纪实/index.m3u8
 #EXTINF: -1 tvg-id="1872" group-title="cctv", 北京纪实 
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF: -1 tvg-id="106" group-title="cctv", CCTV4K
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
+http://221.219.77.170:4000/rtp/239.3.1.245:2000
 #EXTINF: -1 tvg-id="7249" group-title="cctv", CCTV-16 奥林匹克
 https://tv.cry33.com/ys4k.php?id=16-4k
 #EXTINF: -1 group-title="cctv", 蓝印花布 | 浙江 乌镇
