@@ -35,12 +35,8 @@ http://13457610200.8866.org:2018/live/广东卫视高清/index.m3u8
 http://13457610200.8866.org:2018/live/深圳卫视高清/index.m3u8
 #EXTINF: -1 group-title="cctv", 重温经典
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-#EXTINF: -1 group-title="cctv", 文物宝库
-http://36.129.204.120:880/WWBK.m3u8
 #EXTINF: -1 group-title="cctv", 书画
 http://211.103.180.178:8234/live_hls/hdmi.m3u8
-#EXTINF: -1 group-title="cctv", 欢笑剧场
-http://118.183.212.14:6868/udp/239.255.29.7:8231
 #EXTINF: -1 tvg-id="1988" group-title="cctv", 纪实人文
 http://13457610200.8866.org:2018/live/上海纪实/index.m3u8
 #EXTINF: -1 tvg-id="1872" group-title="cctv", 北京纪实 
