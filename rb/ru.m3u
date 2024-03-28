@@ -6,11 +6,15 @@ http://13457610200.8866.org:2018/live/中央2HD/index.m3u8
 #EXTINF: -1 tvg-id="3" group-title="cctv", CCTV-3 综艺
 http://13457610200.8866.org:2018/live/中央3HD/index.m3u8
 #EXTINF: -1 tvg-id="4" group-title="cctv", CCTV-4 中文国际
-http://13457610200.8866.org:2018/live/中央4HD/index.m3u8
+http://1.202.10.117:8888/udp/225.1.8.4:8092
 #EXTINF: -1 tvg-id="5" group-title="cctv", CCTV-5 体育
 http://13457610200.8866.org:2018/live/中央5HD/index.m3u8
 #EXTINF: -1 tvg-id="6" group-title="cctv", CCTV-5+ 体育赛事
 http://13457610200.8866.org:2018/live/中央05HD/index.m3u8
+#EXTINF: -1 tvg-id="7249" group-title="cctv", CCTV-16 奥林匹克
+https://tv.cry33.com/ys4k.php?id=16-4k
+#EXTINF: -1 tvg-id="106" group-title="cctv", CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF: -1 tvg-id="10" group-title="cctv", CCTV-9 纪录
 http://13457610200.8866.org:2018/live/CCTVx9高清/index.m3u8
 #EXTINF: -1 tvg-id="11" group-title="cctv", CCTV-10 科教
@@ -20,7 +24,7 @@ http://13457610200.8866.org:2018/live/CCTVx13高清/index.m3u8
 #EXTINF: -1 tvg-id="18" group-title="cctv", CCTV-17 农业农村
 http://13457610200.8866.org:2018/live/CCTVx17高清/index.m3u8
 #EXTINF: -1 tvg-id="27" group-title="cctv", 湖南卫视
-http://13457610200.8866.org:2018/live/湖南卫视高清/index.m3u8
+http://125.82.241.109:40000/rtp/235.254.198.62:1524
 #EXTINF: -1 tvg-id="28" group-title="cctv", 浙江卫视
 http://13457610200.8866.org:2018/live/浙江卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="29" group-title="cctv", 江苏卫视
@@ -41,18 +45,21 @@ http://211.103.180.178:8234/live_hls/hdmi.m3u8
 http://13457610200.8866.org:2018/live/上海纪实/index.m3u8
 #EXTINF: -1 tvg-id="1872" group-title="cctv", 北京纪实 
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF: -1 tvg-id="106" group-title="cctv", CCTV4K
-http://221.219.77.170:4000/rtp/239.3.1.245:2000
-#EXTINF: -1 tvg-id="7249" group-title="cctv", CCTV-16 奥林匹克
-https://tv.cry33.com/ys4k.php?id=16-4k
 #EXTINF: -1 group-title="cctv", 蓝印花布 | 浙江 乌镇
 https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
 #EXTINF: -1 group-title="cctv", 五彩池 ｜ 四川 黄龙
 https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 #EXTINF: -1 group-title="cctv", 玄武湖公园 ｜江苏 南京
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF: -1 group-title="fashion", WORLD FASHION CHANNEL
+https://live-3.otcnet.ru/wfc-int-master/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="fashion", Fashion TV
+https://fashs043.cloudycdn.services/scte/pg18/pg18_1080p_chunklist.m3u8
+#EXTINF: -1 tvg-id="7215" group-title="sport", EUROSPORT 1
+http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/5075/index.m3u8
 #EXTINF: -1 tvg-id="6140" group-title="uhd", Bloomberg UHD
-https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/9b0a440909ec1cc9b839622e115347a7.m3u8
+# https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF: -1 group-title="uhd", FTV UHD
 https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF: -1 group-title="uhd", SOCHI LIVE HD
@@ -76,12 +83,6 @@ http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/15108/index.m3u8
 http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/17029/index.m3u8
 #EXTINF: -1 group-title="uhd", LIBERTY МУЛЬТ 4K
 http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/18051/index.m3u8
-#EXTINF: -1 group-title="fashion", WORLD FASHION CHANNEL
-https://live-3.otcnet.ru/wfc-int-master/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="fashion", Fashion TV
-https://fashs043.cloudycdn.services/scte/pg18/pg18_1080p_chunklist.m3u8
-#EXTINF: -1 tvg-id="7215" group-title="sport", EUROSPORT 1
-http://5a811713.ucomist.net/iptv/ADYDWLKVER8U7V/5075/index.m3u8
 #EXTINF: -1 tvg-id="142" group-title="ph", 鳳凰衛視資訊台
 http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8
 #EXTINF: -1 tvg-id="141" group-title="ph", 鳳凰衛視中文台
