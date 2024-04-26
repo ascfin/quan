@@ -6,7 +6,7 @@ http://13457610200.8866.org:2018/live/中央2HD/index.m3u8
 #EXTINF: -1 tvg-id="3" group-title="cctv", CCTV-3 综艺
 http://13457610200.8866.org:2018/live/中央3HD/index.m3u8
 #EXTINF: -1 tvg-id="4" group-title="cctv", CCTV-4 中文国际
-http://1.202.10.117:8888/udp/225.1.8.4:8092
+http://111.15.174.107:8969/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF: -1 tvg-id="5" group-title="cctv", CCTV-5 体育
 http://13457610200.8866.org:2018/live/中央5HD/index.m3u8
 #EXTINF: -1 tvg-id="6" group-title="cctv", CCTV-5+ 体育赛事
@@ -24,7 +24,7 @@ http://13457610200.8866.org:2018/live/CCTVx13高清/index.m3u8
 #EXTINF: -1 tvg-id="18" group-title="cctv", CCTV-17 农业农村
 http://13457610200.8866.org:2018/live/CCTVx17高清/index.m3u8
 #EXTINF: -1 tvg-id="27" group-title="cctv", 湖南卫视
-http://125.82.241.109:40000/rtp/235.254.198.62:1524
+http://111.15.174.107:8969/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF: -1 tvg-id="28" group-title="cctv", 浙江卫视
 http://13457610200.8866.org:2018/live/浙江卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="29" group-title="cctv", 江苏卫视
@@ -38,9 +38,7 @@ http://13457610200.8866.org:2018/live/广东卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="34" group-title="cctv", 深圳卫视
 http://13457610200.8866.org:2018/live/深圳卫视高清/index.m3u8
 #EXTINF: -1 group-title="cctv", 重温经典
-http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-#EXTINF: -1 group-title="cctv", 书画
-http://211.103.180.178:8234/live_hls/hdmi.m3u8
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF: -1 tvg-id="1988" group-title="cctv", 纪实人文
 http://13457610200.8866.org:2018/live/上海纪实/index.m3u8
 #EXTINF: -1 tvg-id="1872" group-title="cctv", 北京纪实 
@@ -97,8 +95,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF: -1 group-title="taiwan", Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF: -1 tvg-id="6073" group-title="taiwan", TVBS新聞
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF: -1 tvg-id="6027" group-title="taiwan", 大愛一臺
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF: -1 tvg-id="6142" group-title="taiwan", 大愛二臺
