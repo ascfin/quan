@@ -17,12 +17,10 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 http://13457610200.8866.org:2018/live/CCTVx9高清/index.m3u8
 #EXTINF: -1 tvg-id="11" group-title="cctv", CCTV-10 科教
 http://13457610200.8866.org:2018/live/CCTVx10高清/index.m3u8
-#EXTINF: -1 tvg-id="14" group-title="cctv", CCTV-13 新闻
-http://13457610200.8866.org:2018/live/CCTVx13高清/index.m3u8
 #EXTINF: -1 tvg-id="18" group-title="cctv", CCTV-17 农业农村
 http://13457610200.8866.org:2018/live/CCTVx17高清/index.m3u8
 #EXTINF: -1 tvg-id="27" group-title="cctv", 湖南卫视
-http://116.21.123.52:4433/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.0.186.75:9900/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF: -1 tvg-id="28" group-title="cctv", 浙江卫视
 http://13457610200.8866.org:2018/live/浙江卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="29" group-title="cctv", 江苏卫视
@@ -35,6 +33,8 @@ http://13457610200.8866.org:2018/live/东方卫视高清/index.m3u8
 http://13457610200.8866.org:2018/live/广东卫视高清/index.m3u8
 #EXTINF: -1 tvg-id="34" group-title="cctv", 深圳卫视
 http://13457610200.8866.org:2018/live/深圳卫视高清/index.m3u8
+#EXTINF: -1 group-title="cctv", 重温经典
+https://pi.0472.org/itv/CWJD.m3u8
 #EXTINF: -1 group-title="cctv", 书画
 http://125.80.155.43:8888/udp/235.254.198.199:7980
 #EXTINF: -1 tvg-id="1988" group-title="cctv", 纪实人文
