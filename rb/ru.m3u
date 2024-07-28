@@ -84,7 +84,9 @@ http://gsxootl6.tvclub.xyz/iptv/8PWHVNRUC8A89N/9037/index.m3u8
 #EXTINF: -1 group-title="russia", ПлюсПлюс HD
 http://gsxootl6.tvclub.xyz/iptv/8PWHVNRUC8A89N/6379/index.m3u8
 #EXTINF: -1 group-title="dubai", DUBAI SAMA
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b8500000.m3u8
+#EXTINF: -1 group-title="dubai", DUBAI
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b8500000.m3u8
 #EXTINF: -1 group-title="thai", NBT 2HD
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8
 #EXTINF: -1 group-title="thai", Thai PBS
