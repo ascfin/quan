@@ -65,9 +65,9 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
 #EXTINF: -1 group-title="usa", TED
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
-#EXTINF: -1 tvg-id="6139" group-title="usa", CNA (亞洲新聞台)
+#EXTINF: -1 tvg-id="6139" group-title="asia", CNA (亞洲新聞台)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF: -1 tvg-id="7183" group-title="usa", aljazeera
+#EXTINF: -1 tvg-id="7183" group-title="arab", aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF: -1 group-title="russia", iz
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8
