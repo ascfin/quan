@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 group-title="cctv", 重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+http://bva.iptviptv.site:9694/hls/716/index.m3u8
 #EXTINF: -1 group-title="cctv", 书画
 http://211.103.180.178:8233/live_hls/hdmi.m3u8
 #EXTINF: -1 group-title="cctv", 蓝印花布 | 浙江 乌镇
@@ -12,12 +12,11 @@ https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 #EXTINF: -1 group-title="fashion", WORLD FASHION CHANNEL
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF: -1 group-title="fashion", FashionTV Paris L'Original 
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_glo_css_43440_1080p_1610_hls.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="7215" group-title="sport", EUROSPORT 1
-http://gsxootl6.tvclub.xyz/iptv/8PWHVNRUC8A89N/5075/index.m3u8
+https://stream-us-east-1.getpublica.com/cl/241001crtrs5qo8hn34rgdl810/1920x1080_4771901_0_f.m3u8
 #EXTINF: -1 tvg-id="6140" group-title="uhd", Bloomberg UHD
-https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/9b0a440909ec1cc9b839622e115347a7.m3u8
+https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
 # https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+# https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 #EXTINF: -1 group-title="uhd", FTV UHD
 https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF: -1 group-title="uhd", SOCHI LIVE HD
