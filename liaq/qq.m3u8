@@ -1,0 +1,106 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF: -1 group-title="cctv", 重温经典
+http://tv.dlwmkj.com/php2021/bfy.php?id=635
+#EXTINF: -1 group-title="cctv", 书画
+http://211.103.180.178:8233/live_hls/hdmi.m3u8
+#EXTINF: -1 group-title="cctv", 蓝印花布 | 浙江 乌镇
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF: -1 group-title="cctv", 五彩池 ｜ 四川 黄龙
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF: -1 group-title="cctv", 玄武湖公园 ｜江苏 南京
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF: -1 group-title="fashion", WORLD FASHION CHANNEL
+https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+#EXTINF: -1 group-title="fashion", FashionTV Paris L'Original 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
+#EXTINF: -1 tvg-id="6140" group-title="uhd", Bloomberg UHD
+https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/eb23b6661b4b9b51df70e2df164f9e3a.m3u8
+# https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF: -1 group-title="uhd", FTV UHD
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF: -1 group-title="uhd", SOCHI LIVE HD
+https://serv30.vintera.tv/sochilive_site/sochi_stream/playlist.m3u8
+#EXTINF: -1 group-title="uhd", NASA UHD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/15239/index.m3u8
+#EXTINF: -1 group-title="uhd", clarity 4k
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF: -1 group-title="uhd", loupe 4k
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF: -1 group-title="uhd", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF: -1 group-title="uhd", HOME 4K
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/4002/index.m3u8
+#EXTINF: -1 group-title="uhd", Наша Сибирь 4K
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/4003/index.m3u8
+#EXTINF: -1 group-title="uhd", LIBERTY BBC
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/15108/index.m3u8
+#EXTINF: -1 group-title="uhd", LIBERTY аниме
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/17029/index.m3u8
+#EXTINF: -1 group-title="uhd", LIBERTY МУЛЬТ 4K
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/18051/index.m3u8
+#EXTINF: -1 group-title="japan", 日テレNEWS
+https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF: -1 tvg-id="331" group-title="japan", NHK WORLD-JAPAN
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+#EXTINF: -1 tvg-id="6141" group-title="korea", arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF: -1 group-title="korea", KBS NEWS D
+http://mytv.dothome.co.kr/ch/catv/1.php
+#EXTINF: -1 group-title="taiwan", Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人中國台
+https://live.ntdtv.com/cnlive900/playlist.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人亞太台
+https://www.ntdtv.com.tw/mlt/playlist.m3u8
+#EXTINF: -1 group-title="usa", AccuWeather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweatherinc-accuweather-ono/playlist.m3u8
+#EXTINF: -1 group-title="usa", FOX NEWS
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="730" group-title="usa", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF: -1 group-title="usa", Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="usa", Bloomberg Quicktake
+https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
+#EXTINF: -1 group-title="usa", TED
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
+#EXTINF: -1 tvg-id="6139" group-title="asia", CNA (亞洲新聞台)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF: -1 tvg-id="7183" group-title="arab", aljazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF: -1 group-title="russia", iz
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="russia", Россия 1 HD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/2409/index.m3u8
+#EXTINF: -1 group-title="russia", БСТ HD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9341/index.m3u8
+#EXTINF: -1 group-title="russia", СТС HD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9000/index.m3u8
+#EXTINF: -1 group-title="russia", СТС Kids HD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9063/index.m3u8
+#EXTINF: -1 group-title="russia", Мульт HD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9037/index.m3u8
+#EXTINF: -1 group-title="russia", ПлюсПлюс HD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/6379/index.m3u8
+#EXTINF: -1 group-title="dubai", DUBAI SAMA
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b8500000.m3u8
+#EXTINF: -1 group-title="dubai", DUBAI
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b8500000.m3u8
+#EXTINF: -1 group-title="thai", NBT 2HD
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8
+#EXTINF: -1 group-title="thai", Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF: -1 group-title="discovery", NATIONAL GEOGRAPHIC HD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/2416/index.m3u8
+#EXTINF: -1 group-title="discovery", NATIONAL GEOGRAPHIC WILD HD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/2415/index.m3u8
+#EXTINF: -1 group-title="discovery", animal planet HD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9016/index.m3u8
+#EXTINF: -1 group-title="discovery", Discovery HD
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9011/index.m3u8
+#EXTINF: -1 group-title="discovery", Discovery Science
+http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9326/index.m3u8
+#EXTINF: -1 group-title="food", bon appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="game", IGN
+https://ign-samsungus.amagi.tv/playlist.m3u8
