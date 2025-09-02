@@ -1,12 +1,16 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF: -1 group-title="cctv", 书画
 http://211.103.180.178:8233/live_hls/hdmi.m3u8
-#EXTINF: -1 group-title="cctv", 蓝印花布 | 浙江 乌镇
-https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
 #EXTINF: -1 group-title="cctv", 五彩池 ｜ 四川 黄龙
 https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 #EXTINF: -1 group-title="cctv", 玄武湖公园 ｜江苏 南京
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF: -1 group-title="cctv", 南迦巴瓦 ｜西藏 林芝
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+#EXTINF: -1 tvg-id="106" group-title="cctv", CCTV4K SDR
+https://freetv.top/m2k/cctv4k.m3u8
+#EXTINF: -1 tvg-id="106" group-title="cctv", CCTV4K HLG
+https://freetv.top/m4k/cctv4k.m3u8
 #EXTINF: -1 group-title="fashion", WORLD FASHION CHANNEL
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF: -1 group-title="fashion", FashionTV Paris L'Original 
