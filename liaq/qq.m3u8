@@ -7,10 +7,6 @@ https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 #EXTINF: -1 group-title="cctv", 南迦巴瓦 ｜西藏 林芝
 https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-#EXTINF: -1 tvg-id="106" group-title="cctv", CCTV4K SDR
-https://freetv.top/m2k/cctv4k.m3u8
-#EXTINF: -1 tvg-id="106" group-title="cctv", CCTV4K HLG
-https://freetv.top/m4k/cctv4k.m3u8
 #EXTINF: -1 group-title="fashion", WORLD FASHION CHANNEL
 https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 #EXTINF: -1 group-title="fashion", FashionTV Paris L'Original 
