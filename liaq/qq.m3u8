@@ -41,7 +41,7 @@ http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/18051/index.m3u8
 #EXTINF: -1 group-title="japan", 日テレNEWS
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
 #EXTINF: -1 tvg-id="331" group-title="japan", NHK WORLD-JAPAN
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF: -1 tvg-id="6141" group-title="korea", arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
 #EXTINF: -1 group-title="korea", KBS NEWS D
