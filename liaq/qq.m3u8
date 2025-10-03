@@ -15,7 +15,6 @@ https://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
 #EXTINF: -1 tvg-id="6140" group-title="uhd", Bloomberg UHD
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#https://stream.iptv-search.com/iptv_test/main.php?id=Bloomberg+TV%2B+%281080p%29&t=1757403106&token=c00efd1da08c53ae98a10ea91ad4206f
 # https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
 # https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
 # https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
