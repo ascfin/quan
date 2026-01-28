@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF: -1 group-title="cctv", 书画
-http://211.103.180.178:8233/live_hls/hdmi.m3u8
-#EXTINF: -1 group-title="cctv", 五彩池 ｜ 四川 黄龙
-https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+# #EXTINF: -1 group-title="cctv", 五彩池 ｜ 四川 黄龙
 #EXTINF: -1 group-title="cctv", 玄武湖公园 ｜江苏 南京
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 #EXTINF: -1 group-title="cctv", 南迦巴瓦 ｜西藏 林芝
