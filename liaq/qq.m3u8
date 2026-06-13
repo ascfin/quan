@@ -39,14 +39,22 @@ https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF: -1 tvg-id="6141" group-title="korea", arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 # https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF: -1 group-title="korea", KBS NEWS D
-http://mytv.dothome.co.kr/ch/catv/1.php
+#EXTINF: -1 group-title="korea", KBS 24
+https://news24.gscdn.kbs.co.kr/news24-01/news24-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxNTM0MDA0fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=k1S~wwJw0leaR11WHQtu5uaexMF~aQIGBXdz-V001THdWM2dwGTP7zP30DopRNurXYT4QZUpybX4nez9o3uX0DJtXhVD8QHQHNrmENryUGGgPvOTWO~hFORjV2sv2DMQreWNMwcI8tnG0C2Z4saLHO4IMYyhMY5WFVO9f73t~LdvAB68o7tFtseBNdvFHZmi1cEYuGjIzMaTkLcUaYU1-Z5q8ozzEPnmhm-86q2rE2a1jIoHS2qTfKbOCJ7lxb1j6tuUWX9BNMIeTk3~yJY4gWtF56FBI3mz7vHEm5EDV0IXkFKjKVQlU79fBuVlfl3-cyVAubow0A~HDUuzXsdBMQ__
 #EXTINF: -1 group-title="taiwan", Taiwan Plus
 https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人美東台
+https://ntd02.akamaized.net/HD-NY/tracks-v4a1/mono.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人美西台
+https://live.ntdtv.com/uwlive990/playlist.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人加東台
+https://live.ntdtv.com/mllive860/playlist.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人加西台
+https://live.ntdtv.com/cwlive220/playlist.m3u8
+#EXTINF: -1 group-title="ntd", 新唐人亞太台
+https://live.ntdtv.com/aplive200/playlist.m3u8
 #EXTINF: -1 group-title="ntd", 新唐人中國台
 https://live.ntdtv.com/cnlive900/playlist.m3u8
-#EXTINF: -1 group-title="ntd", 新唐人亞太台
-https://www.ntdtv.com.tw/mlt/playlist.m3u8
 #EXTINF: -1 group-title="usa", AccuWeather Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweatherinc-accuweather-ono/playlist.m3u8
 #EXTINF: -1 group-title="usa", FOX NEWS
@@ -55,14 +63,10 @@ http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF: -1 group-title="usa", Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF: -1 group-title="usa", Bloomberg Quicktake
-https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_QuickTake-1/playlist.m3u8
-#EXTINF: -1 group-title="usa", TED
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
 #EXTINF: -1 tvg-id="6139" group-title="asia", CNA (亞洲新聞台)
 https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/playlist-hls.m3u8
 #EXTINF: -1 tvg-id="7183" group-title="arab", aljazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF: -1 group-title="russia", iz
 https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="russia", Россия 1 HD
@@ -93,5 +97,3 @@ http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9011/index.m3u8
 http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9326/index.m3u8
 #EXTINF: -1 group-title="food", bon appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF: -1 group-title="game", IGN
-https://ign-samsungus.amagi.tv/playlist.m3u8
