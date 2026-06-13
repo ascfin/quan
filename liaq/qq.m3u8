@@ -60,7 +60,7 @@ https://ab1455372fed47d8a88264bab4831d5c.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF: -1 group-title="usa", TED
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
 #EXTINF: -1 tvg-id="6139" group-title="asia", CNA (亞洲新聞台)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://mediacorp-nca-prod-videos-bclive.akamaized.net/6379472319112/ap-southeast-1/6057994443001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGE2ODB1LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjA1Nzk5NDQ0MzAwMSIsImVobiI6Im1lZGlhY29ycC1uY2EtcHJvZC12aWRlb3MtYmNsaXZlLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYwNTc5OTQ0NDMwMDEiXSwianRpIjoiNjM3OTQ3MjMxOTExMiJ9.Cw77amOc6efNO32Sw9nD0SOhjQUc5ewKN8ZWJOPt15Y/playlist-hls.m3u8
 #EXTINF: -1 tvg-id="7183" group-title="arab", aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF: -1 group-title="russia", iz
@@ -77,10 +77,6 @@ http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9063/index.m3u8
 http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/9037/index.m3u8
 #EXTINF: -1 group-title="russia", ПлюсПлюс HD
 http://xdjrv5ys.russtv.net/iptv/UDUC2SK3FWFPT7/6379/index.m3u8
-#EXTINF: -1 group-title="dubai", DUBAI SAMA
-https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b8500000.m3u8
-#EXTINF: -1 group-title="dubai", DUBAI
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b8500000.m3u8
 #EXTINF: -1 group-title="thai", NBT 2HD
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8
 #EXTINF: -1 group-title="thai", Thai PBS
